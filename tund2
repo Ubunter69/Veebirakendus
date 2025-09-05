@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Metshein teksti harjutused</title>
+</head>
+<body>
+<h1>Metshein teksti harjutused</h1>
+<i>See tekst on kaldkirjas</i>
+<br>
+<strong><b>See lause on tugevalt rõhutatud</b></strong>
+<br>
+<i>Siin on visuaalselt kaldkirjas sõna</i>
+<br>
+<b>See on ainult visuaalselt paks</b>
+<br>
+<b><i>See lause on rõhutatud ja samas ka paksendatud</i></b>
+<br>
+Siin on kasutatud <br> rea murdmist
+<br>
+Viimane sõna on <s>valeinfo</s>
+<br>
+Keemiline valem:C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>+O<sub>2</sub> &rarr; CO <sub>2</sub>+H<sub>2</sub>O + energia
+<br>
+Matemaatiline avaldis:E=mc<sup>2</sup>+&alpha;<sup>2</sup>/&beta;
+<br>
+<mark>Üks sõna</mark> on esile tõstetud
+<br>
+<small>See tekst on väiksem ja vähem tähtis</small>
+<br>
+koodi näide: <code>console.log("Hei maailm!");</code>
+<br>
+Kasutaja vajutab <kbd>Ctrl + V</kbd>
+<br>
+programmi väljund <pre>$ ping metshein.com</pre><pre>PING metshein.com (91.237.67.72): 56 data bytes</pre> <pre>64 bytes from 91.237.67.72: icmp_seq=0 ttl=54 time=24.8 ms</pre> <pre>64 bytes from 91.237.67.72: icmp_seq=1 ttl=54 time=25.2 ms</pre>
+
+
+
+
+
+</body>
+</html>
